@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23e9eb97-6107-4594-a0af-7ca1e365269e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sampleproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleapp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleproject/sampleproject/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleproject/sampleproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sampleproject/sampleproject/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +29,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sampleproject/sampleproject/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-402" />
+            <state relative-caret-position="399">
+              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sampleproject/sampleapp/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sampleproject/sampleapp/admin.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sampleproject/sampleapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -65,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+            <state relative-caret-position="450">
+              <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -90,6 +94,7 @@
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/sampleproject/sampleproject/settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -116,6 +121,18 @@
             </path>
             <path>
               <item name="sampleproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sampleproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sampleproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sampleproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sampleproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sampleproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sampleapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sampleproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sampleproject" type="462c0819:PsiDirectoryNode" />
               <item name="sampleproject" type="462c0819:PsiDirectoryNode" />
               <item name="sampleproject" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -263,11 +280,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sampleproject/sampleproject/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-402" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -278,10 +290,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sampleproject/sampleproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleproject/sampleapp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleproject/sampleapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleproject/sampleapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+        <state relative-caret-position="450">
+          <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
         </state>
       </provider>
     </entry>
