@@ -17,9 +17,11 @@ from django.conf.urls import url
 from django.contrib import admin
 from sampleapp import views as sampleapp_view
 from apptwo import views as welcome_view
+from django.conf.urls import include
 
 urlpatterns = [
     url(r'^$',sampleapp_view.index,name='index'),
+    url(r'^mom/', include('sampleapp.urls')),
     url(r'^admin/', admin.site.urls),
     url(r'^welcome/',welcome_view.welcome,name='welcome')
 ]
